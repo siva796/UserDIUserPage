@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carousel.Contracts", "Carousel.Contracts\Carousel.Contracts.csproj", "{ADB91FFA-8C70-4B3C-BE00-1568905707BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carousel.DataAccess", "Carousel.DataAcess\Carousel.DataAccess.csproj", "{2F611412-F709-4089-B796-9B5A9E2E0015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carousel.Models.Contracts", "Carousel.Models\Carousel.Models.Contracts.csproj", "{445E6393-98C4-46CC-9D8C-4DD9D7906FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carousel.Services", "Carousel.Services\Carousel.Services.csproj", "{064D39F5-0976-409A-9519-AFB7F8D64F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carousel.BusinessLogicData", "Carousel.BusinessLogicData\Carousel.BusinessLogicData.csproj", "{4EC5E557-7767-475A-9035-91E36B1E9853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCarousel", "WebApiCarousel\WebApiCarousel.csproj", "{FF590288-88E3-4521-86E4-62520F6595E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB91FFA-8C70-4B3C-BE00-1568905707BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB91FFA-8C70-4B3C-BE00-1568905707BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB91FFA-8C70-4B3C-BE00-1568905707BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB91FFA-8C70-4B3C-BE00-1568905707BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F611412-F709-4089-B796-9B5A9E2E0015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F611412-F709-4089-B796-9B5A9E2E0015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F611412-F709-4089-B796-9B5A9E2E0015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F611412-F709-4089-B796-9B5A9E2E0015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445E6393-98C4-46CC-9D8C-4DD9D7906FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445E6393-98C4-46CC-9D8C-4DD9D7906FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445E6393-98C4-46CC-9D8C-4DD9D7906FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445E6393-98C4-46CC-9D8C-4DD9D7906FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064D39F5-0976-409A-9519-AFB7F8D64F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064D39F5-0976-409A-9519-AFB7F8D64F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064D39F5-0976-409A-9519-AFB7F8D64F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064D39F5-0976-409A-9519-AFB7F8D64F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC5E557-7767-475A-9035-91E36B1E9853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC5E557-7767-475A-9035-91E36B1E9853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC5E557-7767-475A-9035-91E36B1E9853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC5E557-7767-475A-9035-91E36B1E9853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF590288-88E3-4521-86E4-62520F6595E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF590288-88E3-4521-86E4-62520F6595E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF590288-88E3-4521-86E4-62520F6595E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF590288-88E3-4521-86E4-62520F6595E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83951E99-6C72-4C01-AA6D-7F7585E1C389}
+	EndGlobalSection
+EndGlobal
